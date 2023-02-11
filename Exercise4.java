@@ -1,5 +1,3 @@
-package GitHub;
-
 import java.util.Scanner;
 
 public class Exercise4 {
