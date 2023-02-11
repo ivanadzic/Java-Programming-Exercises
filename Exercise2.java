@@ -1,5 +1,3 @@
-package Domaci;
-
 import java.util.Scanner;
 
 public class Exercise2 {
