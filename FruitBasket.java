@@ -1,7 +1,6 @@
-package Domaci;
-
 import java.util.Scanner;
-public class D_01_Ivan_Adzic {
+
+public class FruitBasket {
   public static void main(String[] args) {
     // Napraviti program gde cete uneti informacije o nekom vocu
     // tako sto cete kreirati String za naziv nekog voca i double vrednost za njegovu cenu.
