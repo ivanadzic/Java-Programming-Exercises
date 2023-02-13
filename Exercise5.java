@@ -23,7 +23,7 @@ public class Exercise5 {
         System.out.println("You have selected the XL size of the shirt.");
         break;
       default:
-        System.out.println("Size doesn't exist.");
+        System.out.println("Shirt size doesn't exist.");
     }
   }
 }
